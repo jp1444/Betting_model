@@ -14,3 +14,6 @@ Although ESPN's data sources are very comprehensive, I believe that the whoscore
 
 ### Questions
 If you have any queries on this please contact me - joepeirson@gmail.com
+
+### Notes
+I have not added all my code for this project as I didn't want anyone to replicate my model but I am happy to talk through my code if there is interest.
